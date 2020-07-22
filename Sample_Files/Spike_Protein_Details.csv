@@ -1,0 +1,22 @@
+sentence
+"Coronaviruses, including SARS-CoV-2, are lipid-enveloped positive-sense RNA viruses."
+"Together with the host-derived membrane, a set of structural proteins provide an organizational scaffold that wraps and contains the positive-sense viral RNA. "
+"Among them, the most critical is the spike, or S, protein, which is conserved to varying degrees across the Coronaviridae family and plays a key role in the virus’ initial attachment to and fusion with the host cell. "
+"The S protein is a class I fusion protein, synthesized as a single 1273 amino acid polypeptide chain, which associates as a trimer. Each trimer can be divided into three main topological domains, namely the head, stalk, and cytoplasmic tail (CT), where we can identify the S1 and S2 subunits (Figure 1A)."
+"One particularly interesting feature of the SARS-CoV-2 S protein is its adoption of a novel furin cleavage site (S1/S2), likely cleaved by the TMPRSS protease, between S1 and S2; this site is believed to prime and activate the spike for infection. "
+"A second proteolytic cleavage at S2ʹ releases the fusion peptide (FP), which penetrates and primes the host cell membrane for fusion."
+"A number of recently published structural studies provide an atomic or a near-atomic understanding of the head portion of SARS-CoV-2 spike, which comprises multiple domains (Figure 1A)."
+"The S1 subunit contains an N-terminal domain (NTD) and the receptor binding domain (RBD), where the receptor binding motif (RBM) is responsible for the interaction with the angiotensin-converting enzyme 2 (ACE2) receptor to gain entry into the host. "
+The S2 subunit has been aptly described as “a metastable spring-loaded fusion machine” because it plays a key role in integrating the viral and host cell membranes. 
+"It contains the FP, the central helix (CH), and the connecting domain (CD)."
+"Additional domains within the S2 subunit that are not resolved via cryo-EM or X-ray experiments include the heptad repeat 2 (HR2) and the transmembrane (TM) domains forming the stalk, and the CT."
+"Another key structural feature of the S protein that eludes detailed experimental structural characterization is its extensive glycosylation, shown in Figure 1C."
+"Protein glycosylation plays a crucial role in viral pathogenesis,as demonstrated by the characteristically thick N-glycan coating of the viral fusion proteins."
+"In the HIV-1 envelope spike (Env), for example, the protein-accessible surface area is almost entirely covered in N-glycans."
+These are so densely packed that they account for more than half of the protein’s molecular weight.
+The biological roles of the N-glycans expressed on the surface of viral envelope glycoproteins are very diverse and are all inextricably linked to their nature.
+"Viral entry through membrane fusion is initiated by envelope glycoproteins through molecular recognition events involving cell surface receptors, which are often mediated by specific N-glycan epitopes."
+"Moreover, a highly dense coating of non-immunogenic or weakly immunogenic complex carbohydrates on otherwise dangerously exposed viral proteins constitutes a perfect camouflage (or shield) to evade the immune system."
+"To this end, the HIV-1 Env glycan shield, which is largely structured by oligomannose (Man5-9) N-glycans, has been shown to be quite effective in allowing the virus to thwart the immune system;it has also been found to be responsible for the virus’ interactions with DC-SIGN C-type lectins.Contrary to HIV-1 Env, the betacoronaviruses SARS and MERS S proteins are not shielded as effectively."
+"Furthermore, both SARS-CoV and SARSCoV-2 spikes present a rather different glycosylation pattern from that of HIV-1 Env, with a large presence of complex N-glycans relative to oligomannose type. "
+"More specifically, the SARS-CoV-2 trimer has 22 predicted N-glycosylation sites per protomer,of which at least have been found to be occupied and 2 predicted O-glycosylation sites (see Figures 1C-1E)."
