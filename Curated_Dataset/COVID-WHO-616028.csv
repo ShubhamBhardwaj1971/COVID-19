@@ -1,0 +1,311 @@
+Source,Relation ,Target
+COVID-WHO-616028,COVID WHO Research Paper Title,Medical Management of COVID-19: Evidence and Experience
+Coronavirus disease 2019,Another name,COVID-19 
+COVID-19,Causative virus,SARS-CoV-2
+SARS-CoV-2,Full form ,Severe acute respiratory syndrome coronavirus 2
+Remdesivir,Use,Received emergency use authorization (EUA) by the Food and Drug Administration (FDA) recently for use in patients hospitalized with COVID-19
+Received emergency use authorization (EUA) by the Food and Drug Administration (FDA) recently for use in patients hospitalized with COVID-19,Linked to,Emergency use authorization
+EUA,Full form,Emergency use authorization
+Emergency use authorization (EUA) by the Food and Drug Administration (FDA) recently for use in patients hospitalized with COVID-19,Linked to,Food and Drug Administration
+FDA,Full form ,Food and Drug Administration
+COVID-19 ,Category,COVID-19 cases
+COVID-19 cases,Time of first official reporting,December 2019
+COVID-19 cases,Place of first official reporting,Wuhan 
+Wuhan,Country,China
+COVID-19,Category,COVID-19 symptoms
+COVID-19 symptoms,Include,Asymptomatic
+COVID-19 symptoms,Include,Minimal respiratory symptoms
+COVID-19 symptoms,Include,Febrile illness
+COVID-19 symptoms,Include,Severe respiratory failure needing ventilator support
+COVID-19,Category,COVID-19 management
+COVID-19 management guidelines,Guideline,Prevention
+COVID-19 management guidelines,Guideline,Isolation
+COVID-19 management guidelines,Guideline,Supportive treatment strategies
+Acetaminophen,Suggested usage,Preferred antipyretic agent for fever associated with COVID-19
+NSAID,Full form,Non-steroidal anti-inflammatory drug
+NSAID,Proposed dose,Lowest effective
+CDC,Refers to,Centers for Disease Control and Prevention (USA)
+Glucocorticoids,Associated with,Increased risk for mortality in patients with influenza
+Increased risk for mortality in patients with influenza,Linked to,Influenza
+Glucocorticoids,Experience with MERS-COV Management,Delayed viral clearance in patients with Middle East respiratory syndrome coronavirus (MERS-CoV) infection
+Delayed viral clearance in patients with Middle East respiratory syndrome coronavirus (MERS-CoV) infection,Linked to,MERS
+MERS,Full form,Middle East respiratory syndrome
+Glucocorticoids,Experience with SARS Management,No good evidence for benefit
+Glucocorticoids,Experience with SARS Management,Persuasive evidence of adverse short- and long-term harm
+Glucocorticoids,Usage recommendation,"CDC recommended against the use of systemic glucocorticoids in patients with COVID-19, unless there are other indications such as asthma or chronic obstructive lung disease exacerbation, refractory septic shock, and adrenal insufficiency"
+"CDC recommended against the use of systemic glucocorticoids in patients with COVID-19, unless there are other indications such as asthma or chronic obstructive lung disease exacerbation, refractory septic shock, and adrenal insufficiency",Linked to,Refractory septic shock
+"CDC recommended against the use of systemic glucocorticoids in patients with COVID-19, unless there are other indications such as asthma or chronic obstructive lung disease exacerbation, refractory septic shock, and adrenal insufficiency",Linked to,Adrenal insufficiency
+COVID-19 patients,Possible scenario,Increased risk for systemic thrombosis
+Increased risk for systemic thrombosis,Linked to,Thrombosis
+Increased risk for systemic thrombosis,Suggested by,"Reports of pulmonary embolism in patients with COVID-19, and several cohorts reported to have elevated D-dimer levels and other markers of dysregulated coagulation"
+"Reports of pulmonary embolism in patients with COVID-19, and several cohorts reported to have elevated D-dimer levels and other markers of dysregulated coagulation",Linked to,Pulmonary embolism
+"Reports of pulmonary embolism in patients with COVID-19, and several cohorts reported to have elevated D-dimer levels and other markers of dysregulated coagulation        ",Linked to,D-dimer
+"Reports of pulmonary embolism in patients with COVID-19, and several cohorts reported to have elevated D-dimer levels and other markers of dysregulated coagulation",Linked to,Dysregulated coagulation
+Thromboembolism,Possible factor,Advanced age and existing comorbidities
+Heparin,Recommendation,Recommended for pharmacologic prophylaxis of venous thromboembolism in COVID-19 patients unless there are clinical contraindications such as active bleeding or severe thrombocytopenia
+Recommended for pharmacologic prophylaxis of venous thromboembolism in COVID-19 patients unless there are clinical contraindications such as active bleeding or severe thrombocytopenia,Linked to,Pharmacologic prophylaxis
+Recommended for pharmacologic prophylaxis of venous thromboembolism in COVID-19 patients unless there are clinical contraindications such as active bleeding or severe thrombocytopenia,Linked to,Thromboembolism
+Recommended for pharmacologic prophylaxis of venous thromboembolism in COVID-19 patients unless there are clinical contraindications such as active bleeding or severe thrombocytopenia,Linked to,Thrombocytopenia
+Inhaled medications,Administration strategy,Metered-dose inhaler
+COVID-19 symptoms,Most common,Fever
+COVID-19,Recommended antipyretic,Acetaminophen
+Acetaminophen,Other uses,Headache
+Acetaminophen,Other uses,Myalgias
+Aspirin,Causes,Reye syndrome
+Aspirin,Precautions,Should be avoided in children
+COVID-19 symptoms,Common,Cough (often dry cough)
+COVID-19,Potential complications,Hypotension
+COVID-19,Potential complications,Shock
+Viral Infection,Causes,Inflammatory cytokine release
+Inflammatory cytokine release,Causes,Usually subpleural edema in the early stages
+Usually subpleural edema in the early stages,Linked to,Subpleural edema
+Usually subpleural edema in the early stages,Linked to,Edema
+Inflammatory cytokine release,Causes,Alveolar edema in later stages
+Alveolar edema in later stages,Linked to,Alveolar edema
+Vascular endothelial damage in COVID-19,Causes,Disruption of pulmonary vascular autoregulation in response to hypoxia
+Disruption of pulmonary vascular autoregulation in response to hypoxia,Linked to,Pulmonary vascular autoregulation
+Disruption of pulmonary vascular autoregulation in response to hypoxia,Linked to,Hypoxia
+Vascular endothelial damage in COVID-19,Contributes to,Ventilation-perfusion (VQ) mismatch
+Inflammation of the alveolar lining,Causes,Alveolar collapse
+Decreased fluid clearance,Causes,Alveolar edema
+Alveolar edema,Causes,Increased right heart pressure
+Increased right heart pressure,Causes,More tissue hypoxia
+Increased right heart pressure,Causes,Multiorgan failure
+Two distinct phenotypes,At ends of clinical spectrum,“L” and “H” types
+“L” type,Feature,Seen early on
+“L” type,Feature,Low elastance/high compliance
+“L” type,Feature,Low lung weight
+“L” type,Feature,Low VQ mismatch
+“L” type,Feature,Low recruitability
+“L” type,Feature,Lungs can hold a good amount of air
+“L” type,Feature,Lungs not affected by much edema
+“L” type,Feature,VQ ratio is due to defects in vasoregulation and perfusion
+VQ ratio is due to defects in vasoregulation and perfusion,Linked to,Vasoregulation
+VQ ratio is due to defects in vasoregulation and perfusion,Linked to,Perfusion
+“L” type,Feature,"Since most of the lung is already aerated, there is not much scope for recruitability"
+"Since most of the lung is already aerated, there is not much scope for recruitability",Linked to,Recruitability
+“L” type,Feature,Patients have mild dyspnea
+Patients have mild dyspnea,Linked to,Dyspnea
+“L” type,Feature,Patients have limited ground glass infiltrates on computed tomography (CT) scans
+Patients have limited ground glass infiltrates on computed tomography (CT) scans,Linked to,Glass infiltrates
+Patients have limited ground glass infiltrates on computed tomography (CT) scans,Linked to,Computed tomography
+ARDS,Full form,Adult respiratory distress syndrome
+Adult respiratory distress syndrome,Feature,Noncardiogenic pulmonary edema
+Adult respiratory distress syndrome,Feature,Shunting
+Adult respiratory distress syndrome,Feature,Decreased lung size for gas exchange
+“H” type,Feature,High elastance
+“H” type,Feature,Low compliance
+“H” type,Feature,High lung weight
+“H” type,Feature,High VQ mismatch
+“H” type,Feature,High recruitability
+“H” type,Feature,Symptomatic
+“H” type,Feature,Extensive infiltrates on CT suggestive of alveolar edema
+“H” type,Feature,Increased risk of ending up on the ventilator support device
+Respiratory support in COVID-19,Suggested focus,Optimizing oxygenation
+Respiratory support in COVID-19,Suggested focus,Reducing pulmonary stress
+Respiratory support in COVID-19,Suggested focus,Reducing vascular stress
+Respiratory support in COVID-19,Suggested focus,Preventing edema
+Respiratory support in COVID-19,Suggested focus,Preventing lung injury
+Respiratory support in COVID-19,Suggested focus,Recruitment of functional lung units
+Hydroxychloroquine,Function,Hydroxychloroquine blocks entry of the virus in to human cells
+Hydroxychloroquine blocks entry of the virus in to human cells,Mechanism,Proteolytic processing
+Hydroxychloroquine blocks entry of the virus in to human cells,Mechanism,Inhibiting glycosylation of host receptors
+Hydroxychloroquine blocks entry of the virus in to human cells,Mechanism,Acidification inside endosomes
+Hydroxychloroquine,Function,Hydroxychloroquine may have immunomodulatory effects
+Hydroxychloroquine may have immunomodulatory effects,Mechanism,Blockage of autophagy
+Hydroxychloroquine may have immunomodulatory effects,Mechanism,Lysosomal activity in host cells
+Hydroxychloroquine may have immunomodulatory effects,Mechanism,Dissipating cytokine production and inhibition
+Chloroquine,Function,Chloroquine blocks entry of the virus in to human cells
+Chloroquine blocks entry of the virus in to human cells,Mechanism,Proteolytic processing
+Chloroquine blocks entry of the virus in to human cells,Mechanism,Inhibiting glycosylation of host receptors
+Chloroquine blocks entry of the virus in to human cells,Mechanism,Acidification inside endosomes
+Chloroquine,Function,Chloroquine may have immunomodulatory effects
+Chloroquine may have immunomodulatory effects,Mechanism,Blockage of autophagy
+Chloroquine may have immunomodulatory effects,Mechanism,Lysosomal activity in host cells
+Chloroquine may have immunomodulatory effects,Mechanism,Dissipating cytokine production and inhibition
+Azithromycin,Feature,Antibacterial macrolide
+Azithromycin,Mechanism of action,Binding to 50s ribosomal subunit and inhibition of messenger RNA directed polypeptide synthesis
+Binding to 50s ribosomal subunit and inhibition of messenger RNA directed polypeptide synthesis,Linked to ,50s ribosomal subunit
+Binding to 50s ribosomal subunit and inhibition of messenger RNA directed polypeptide synthesis,Linked to ,Messenger RNA directed polypeptide synthesis
+Azithromycin,Pros,Shown to inhibit replication in Zika and Ebola viruses
+Shown to inhibit replication in Zika and Ebola viruses,Linked to,Zika virus
+Shown to inhibit replication in Zika and Ebola viruses,Linked to,Ebola virus
+Chloroquine,Pros,Relatively well tolerated
+Chloroquine,Use,SLE
+SLE,Full form ,Systemic lupus erythematosus
+Chloroquine,Use,Malaria
+Chloroquine,Possible adverse effects,Hypoglycemia
+Chloroquine,Possible adverse effects,Retinopathy
+Chloroquine,Possible adverse effects,Psychiatric effects
+Chloroquine,Possible adverse effects,QTc prolongation
+Hydroxychloroquine,Pros,Relatively well tolerated
+Hydroxychloroquine,Use,Systemic lupus erythematosus
+Hydroxychloroquine,Use,Malaria
+Hydroxychloroquine,Possible adverse effects,Hypoglycemia
+Hydroxychloroquine,Possible adverse effects,Retinopathy
+Hydroxychloroquine,Possible adverse effects,Psychiatric effects
+Hydroxychloroquine,Possible adverse effects,QTc prolongation
+Hydroxychloroquine,Effectiveness,Hydroxychloroquine shown effective in combination with Azithromycin
+Azithromycin,Effectiveness,Hydroxychloroquine shown effective in combination with Azithromycin
+Hydroxychloroquine shown effective in combination with Azithromycin,Study,"Gautret et al concluded that combination therapy with azithromycin and hydroxychloroquine cured 100% of patients virologically on day 6 compared to 57.1% in patients treated with hydroxychloroquine only, and 12.5% in the control group"
+Hydroxychloroquine,Effectiveness,Hydroxychloroquine found to be more harmful because of its side effects
+Hydroxychloroquine,Proposed dose for COVID-19,"400 mg twice daily orally for two doses, then 400 mg daily orally for a total of 5 days"
+Chloroquine,Proposed dose for COVID-19,"1 g on day 1, then 500 mg daily for 4 - 7 days total"
+Remdesivir,Another name,GS-5734
+Remdesivir,Feature,Adenosine monophosphate prodrug
+Remdesivir,Mechanism of action,"Metabolizes to an active C-adenosine nucleoside triphosphate analog, thereby interfering with the action of viral RNA-dependent RNA polymerase"
+"Metabolizes to an active C-adenosine nucleoside triphosphate analog, thereby interfering with the action of viral RNA-dependent RNA polymerase",Linked to ,Nucleoside triphosphate
+"Metabolizes to an active C-adenosine nucleoside triphosphate analog, thereby interfering with the action of viral RNA-dependent RNA polymerase",Linked to ,RNA-dependent RNA polymerase
+Remdesivir,Year of discovery,2015
+Remdesivir,Discovered during,Process of finding antimicrobials with activity against RNA viruses
+Remdesivir,Pros,Initially used for Ebola treatment
+Remdesivir,Pros,Shown promising results in animals’ studies with MERS
+Remdesivir,Pros,Shown promising results in animals’ studies with SARS
+Remdesivir,Received,EUA by FDA for use in patients hospitalized with COVID-19 based on a clinical trial
+Remdesivir,Pros,"Accelerated the recovery time by 31%, from 15 days to 11 days in patients who received treatment with it, according to a clinical trial"
+Remdesivir,Pros,Reduced the mortality from 11% to 8% in a clinical trial
+Remdesivir,Side effects,Nausea
+Remdesivir,Side effects,Vomiting
+Remdesivir,Side effects,Reversible rise in aspartate aminotransferase and alanine transaminase
+Reversible rise in aspartate aminotransferase and alanine transaminase,Linked to,Aspartate aminotransferase
+Reversible rise in aspartate aminotransferase and alanine transaminase,Linked to,Alanine transaminase
+Remdesivir,Proposed dose for COVID-19,"Single 200 mg loading dose, followed by 100 mg daily infusion"
+Remdesivir,Proposed dose for COVID-19,"Under EUA, the recommended dosing duration for patients requiring invasive mechanical ventilation and/or ECMO, and for patients not requiring invasive mechanical ventilation and/or ECMO is 10 days and 5 days, respectively."
+"Under EUA, the recommended dosing duration for patients requiring invasive mechanical ventilation and/or ECMO, and for patients not requiring invasive mechanical ventilation and/or ECMO is 10 days and 5 days, respectively.",Linked to,ECMO
+ECMO,Full form,Extracorporeal membrane oxygenation
+Remdesivir,Proposed dose for COVID-19,Therapy is not recommended in patients with an estimated glomerular filtration rate less than 30 mL/min.
+Therapy is not recommended in patients with an estimated glomerular filtration rate less than 30 mL/min.,Linked to,Glomerular filtration rate
+Favipiravir,Action,Inhibits influenza viral replications by targeting RNA polymerase
+Inhibits influenza viral replications by targeting RNA polymerase,Linked to,RNA polymerase
+Favipiravir,Feature,Generic version of brand Avigan
+Generic version of brand Avigan,Linked to,Avigan
+Favipiravir,Use,For treating novel influenza infections in Japan
+Favipiravir,Side effects,Decreased neutrophil count
+Decreased neutrophil count,Linked to,Neutrophil
+Favipiravir,Side effects,Diarrhea
+Favipiravir,Side effects,Increased uric acid levels
+Favipiravir,Side effects,Elevated transaminases
+Elevated transaminases,Linked to,Transaminase
+Favipiravir,Proposed dose for COVID-19,"Recommended dosing is 2,400 to 3,000 mg loading dose every 12 h for two doses, followed by 1,200 to 1,800 mg twice a day as maintenance dose"
+IL-6,Observation,Elevated levels found in the blood of COVID-19 patients
+IL-6,Attribute,Proinflammatory cytokine
+IL-6,Function,"Binds to both soluble IL-6 receptor (sIL-6R) and membrane-bound IL-6R (mIL-6R).The resulting complex activates an inflammatory response through interaction with transducing component glycoprotein 130 (gp130), which can result in a cytokine storm."
+"Binds to both soluble IL-6 receptor (sIL-6R) and membrane-bound IL-6R (mIL-6R).The resulting complex activates an inflammatory response through interaction with transducing component glycoprotein 130 (gp130), which can result in a cytokine storm.",Function,Soluble IL-6 receptor (sIL-6R)
+"Binds to both soluble IL-6 receptor (sIL-6R) and membrane-bound IL-6R (mIL-6R).The resulting complex activates an inflammatory response through interaction with transducing component glycoprotein 130 (gp130), which can result in a cytokine storm.",Function,Membrane-bound IL-6R (mIL-6R)
+"Binds to both soluble IL-6 receptor (sIL-6R) and membrane-bound IL-6R (mIL-6R).The resulting complex activates an inflammatory response through interaction with transducing component glycoprotein 130 (gp130), which can result in a cytokine storm.",Function,Glycoprotein 130
+IL-6 inhibitor,Example,Sarilumab
+IL-6 inhibitor,Example,Tocilizumab
+Sarilumab,Mechanism of action,"Binds specifically to sIL-6R and mIL-6R, and blocks signal transduction."
+"Binds specifically to sIL-6R and mIL-6R, and blocks signal transduction.",Linked to,sIL-6R
+"Binds specifically to sIL-6R and mIL-6R, and blocks signal transduction.",Linked to,mIL-6R
+"Binds specifically to sIL-6R and mIL-6R, and blocks signal transduction.",Linked to,Signal transduction
+Tocilizumab,Mechanism of action,"Binds specifically to sIL-6R and mIL-6R, and blocks signal transduction."
+Sarilumab,Pros,Helps by diminishing the effect of an overactive cytokine system.
+Tocilizumab,Pros,Helps by diminishing the effect of an overactive cytokine system.
+Sarilumab,Precautions,"New-onset abdominal symptoms should be monitored as there were reported cases of GI perforation, specifically in patients with a history of diverticulosis."
+"New-onset abdominal symptoms should be monitored as there were reported cases of GI perforation, specifically in patients with a history of diverticulosis.",Linked to,GI perforation
+"New-onset abdominal symptoms should be monitored as there were reported cases of GI perforation, specifically in patients with a history of diverticulosis.",Linked to,Diverticulosis
+Sarilumab,Precautions,Baseline lipid panel and liver function testing should also be done as this drug might elevate these parameters significantly.
+Tocilizumab,Precautions,"New-onset abdominal symptoms should be monitored as there were reported cases of GI perforation, specifically in patients with a history of diverticulosis."
+Tocilizumab,Precautions,Baseline lipid panel and liver function testing should also be done as this drug might elevate these parameters significantly.
+Lopinavir/ritonavir,Mechanism of action,"The lopinavir component binds to the site of viral protease activity and inhibits the cleavage of viral Gag-Pol polyprotein precursors into individual functional proteins required for infectious human immunodeficiency virus (HIV). This results in the formation of immature, noninfectious viral particles. The ritonavir component inhibits the cytochrome P450 3A (CYP3A) metabolism of lopinavir, allowing increased plasma levels of lopinavir."
+"The lopinavir component binds to the site of viral protease activity and inhibits the cleavage of viral Gag-Pol polyprotein precursors into individual functional proteins required for infectious human immunodeficiency virus (HIV). This results in the formation of immature, noninfectious viral particles. The ritonavir component inhibits the cytochrome P450 3A (CYP3A) metabolism of lopinavir, allowing increased plasma levels of lopinavir.",Linked to,Gag-Pol polyprotein
+"The lopinavir component binds to the site of viral protease activity and inhibits the cleavage of viral Gag-Pol polyprotein precursors into individual functional proteins required for infectious human immunodeficiency virus (HIV). This results in the formation of immature, noninfectious viral particles. The ritonavir component inhibits the cytochrome P450 3A (CYP3A) metabolism of lopinavir, allowing increased plasma levels of lopinavir.",Linked to,Human immunodeficiency virus
+"The lopinavir component binds to the site of viral protease activity and inhibits the cleavage of viral Gag-Pol polyprotein precursors into individual functional proteins required for infectious human immunodeficiency virus (HIV). This results in the formation of immature, noninfectious viral particles. The ritonavir component inhibits the cytochrome P450 3A (CYP3A) metabolism of lopinavir, allowing increased plasma levels of lopinavir.",Linked to,Cytochrome P450 3A (CYP3A)
+Lopinavir/ritonavir,Pros,Widely and successfully used in HIV management
+Lopinavir/ritonavir,Pros,Shown some effect in the in vitro model for MERS and SARS treatment.
+Lopinavir/ritonavir,Side effects,Asthenia
+Lopinavir/ritonavir,Side effects,Diarrhea
+Lopinavir/ritonavir,Side effects,Nausea
+Lopinavir/ritonavir,Side effects,"Elevated total bilirubin, hepatic enzyme levels, and triglycerides"
+"Elevated total bilirubin, hepatic enzyme levels, and triglycerides",Linked to,Bilirubin
+"Elevated total bilirubin, hepatic enzyme levels, and triglycerides",Linked to,Hepatic enzyme
+"Elevated total bilirubin, hepatic enzyme levels, and triglycerides",Linked to,Triglycerides
+Lopinavir/ritonavir,Proposed dose for COVID-19,400 mg/100 mg twice daily for up to 14 days
+Histamine,Effects,Pleiotropic effects on the immune system from different natures of its receptors
+Pleiotropic effects on the immune system from different natures of its receptors,Linked to,Pleiotropic effect
+Histamine,Effects,Immunomodulation resulting in sepsis (noticed in diabetic mice)
+Immunomodulation resulting in sepsis (noticed in diabetic mice),Linked to,Immunomodulation
+Immunomodulation resulting in sepsis (noticed in diabetic mice),Linked to,Sepsis
+Immunomodulation resulting in sepsis (noticed in diabetic mice),Impact of histamine levels,Happens through decreased neutrophil recruitment and impaired oxidative burst from elevated histamine levels
+Happens through decreased neutrophil recruitment and impaired oxidative burst from elevated histamine levels,Linked to,Neutrophil
+Histamine 2 receptor antagonist (H2RA),Mechanism of action,Blocks immunosuppressive effects of histamine
+Histamine 2 receptor antagonist (H2RA),Mechanism of action,Stimulates the functions of T and B white cells
+Stimulates the functions of T and B white cells,Linked to,T cell
+Stimulates the functions of T and B white cells,Linked to,B cell
+H2RA,Full form,Histamine 2 receptor antagonist
+Histamine 2 receptor antagonist,Antiviral effects,"Demonstrated in patients with herpes zoster infection, herpes simplex virus (HSV), and human papillomavirus (HPV)"
+HSV,Full form,Herpes simplex virus
+HPV,Full form,Human papillomavirus
+"Demonstrated in patients with herpes zoster infection, herpes simplex virus (HSV), and human papillomavirus (HPV)",Linked to,Herpes simplex virus
+"Demonstrated in patients with herpes zoster infection, herpes simplex virus (HSV), and human papillomavirus (HPV)",Linked to,Human papillomavirus
+Cimetidine,Effect,Increased immunogenicity when given as an adjuvant along with HBV viral vaccines
+Increased immunogenicity when given as an adjuvant along with HBV viral vaccines,Linked to,Immunogenicity
+Increased immunogenicity when given as an adjuvant along with HBV viral vaccines,Linked to,Adjuvant
+Cimetidine,Effect,Decreased HIV replication in vitro
+Histamine 2 receptor antagonist,Cons,No conclusive data are supporting how H2RA helps against COVID-19
+Histamine 2 receptor antagonist,Proposed dose for COVID-19,Standard dose to treat gastroesophageal reflux disease
+Standard dose to treat gastroesophageal reflux disease,Linked to,Gastroesophageal reflux disease
+Interferon beta,Feature,"Subtype of type I IFN secreted by many cell types, mostly by plasmacytoid dendritic cells upon recognition of viral components by pattern recognition receptors (PRR)"
+"Subtype of type I IFN secreted by many cell types, mostly by plasmacytoid dendritic cells upon recognition of viral components by pattern recognition receptors (PRR)",Linked to,Type I IFN
+"Subtype of type I IFN secreted by many cell types, mostly by plasmacytoid dendritic cells upon recognition of viral components by pattern recognition receptors (PRR)",Linked to,PRR
+PRR,Full form,Pattern recognition receptor
+Interferon-stimulated genes,Function,Involved in inflammation and immunomodulation
+ISG ,Full form,Interferon-stimulated genes
+Involved in inflammation and immunomodulation,Linked to ,Inflammation
+Involved in inflammation and immunomodulation,Linked to ,Immunomodulation
+Interferon-stimulated genes,Function,Interfere with viral replication and viral spread through different pathways like cytokine secretion or slowdown of cell metabolism
+Interferon beta,Recommendation,IFN-beta is the most relevant IFN-I that should be given as early as possible to optimize antiviral therapy and avoid complications from the virus
+CP,Full form,Convalescent plasma
+Convalescent plasma,Another name,Plasma collected from donors who have successfully survived an infectious disease by generating antibodies
+Convalescent plasma,Used in treatment for,Measles
+Convalescent plasma,Used in treatment for,Polio
+Convalescent plasma,Used in treatment for,Chickenpox
+Convalescent plasma,Used in treatment for,SARS-CoV-1 epidemic
+Convalescent plasma,Used in treatment for,H1N1 influenza pandemic (H1N1)
+Convalescent plasma,Used in treatment for,Avian influenza A (H5N1)
+Convalescent plasma,Used in treatment for,Ebola
+Convalescent plasma,Used in treatment for,MERS-CoV epidemic
+Convalescent plasma,Mechanism of action,"Antibodies in the CP could potentially limit the viral replication, can mediate cellular toxicity and/or phagocytosis"
+"Antibodies in the CP could potentially limit the viral replication, can mediate cellular toxicity and/or phagocytosis",Linked to,Phagocytosis
+Convalescent plasma,Mechanism of action,"Plasma components can exert vital clinical effects such as replacing the coagulation factors, complement activation."
+Convalescent plasma,Features,May potentially offer only short-term strategy to confer immediate immunity to infection susceptible patients
+Convalescent plasma,Potential donor,"A person who has tested positive for COVID-19 and recovered with no symptoms for 14 days could be a potential donor in the presence of high enough antibody levels in the plasma and negative for possible infections such as HIV, hepatitis C, etc. The donor and the recipient should have compatible blood groups."
+Steroid or IL-6R blocking antibodies,Benefecial for,Managing cytokine storm
+Blood purification therapy,Plasma adsorption/therapeutic plasma exchange,Proven in the setting of sepsis
+Rheumatic disease,Drug used in treatment,Tocilizumab
+Rheumatic disease,Drug used in treatment,Sarilumab
+Rheumatic disease,Drug used in treatment,Anakinra
+Rheumatoid arthritis,Drug used in treatment,bDMARDs
+bDMARDs,Full form,Biological derived disease modifying anti-rheumatic drugs
+Rheumatoid arthritis,Drug used in treatment,tsDMARDs
+tsDMARDs,Full form,Targeted synthetic disease modifying anti-rheumatic drugs
+Rheumatoid arthritis,Example treatment,Tumor necrosis factor inhibitors
+Spondyloarthritis,Drug used in treatment,bDMARDs
+Spondyloarthritis,Drug used in treatment,tsDMARDs
+Spondyloarthritis,Example treatment,Tumor necrosis factor inhibitors
+Tacrolimus,One of most commonly used drugs for,Maintenance immunosuppression following solid-organ transplantation
+Maintenance immunosuppression following solid-organ transplantation,Linked to,Maintenance immunosuppression
+Cyclosporine,One of most commonly used drugs for,Maintenance immunosuppression following solid-organ transplantation
+Tacrolimus,Reduces production of,IL2
+Cyclosporine,Reduces production of,IL2
+IL2,Feature,"Regulator of proliferation, survival, and maturation for all T cell populations"
+Lymphopenia,Observed in,Severe cases of COVID-19
+Lymphopenia,Possible cause,Lung sequestration of hyperactivated T cell
+Lung sequestration of hyperactivated T cell,Linked to,Lung sequestration
+Lung sequestration of hyperactivated T cell,Linked to,T cell
+Kidney transplant patients,COVID-19 effect,"In a limited cohort of kidney transplant patients, COVID-19 induced pneumonia is characterized by a high risk of progression and significant mortality."
+ESKD,Full form,End-stage kidney disease
+End-stage Kidney Disease,Patients susceptibility to COVID-19,Significant risk of infection due to suppression of the immune system
+Hong Kong COVID-19 clinical trial,Active intervention group,"Treated with IFN beta-1b,lopinavir/ritonavir,ribavirin"
+"Treated with IFN beta-1b,lopinavir/ritonavir,ribavirin",Linked to,IFN beta-1b
+"Treated with IFN beta-1b,lopinavir/ritonavir,ribavirin",Linked to,Lopinavir
+"Treated with IFN beta-1b,lopinavir/ritonavir,ribavirin",Linked to,Ritonavir
+"Treated with IFN beta-1b,lopinavir/ritonavir,ribavirin",Linked to,Ribavirin
+Hong Kong COVID-19 clinical trial,Active intervention group,Had viral clearance at an average of 7 days
+Hong Kong COVID-19 clinical trial,Control group,Treated with lopinavir/ritonavir
+Treated with lopinavir/ritonavir,Linked to,Lopinavir
+Treated with lopinavir/ritonavir,Linked to,Ritonavir
+Hong Kong COVID-19 clinical trial,Control group,Had viral clearance at an average of 12 days
+Peer-to-peer tracking platform,Example,Trace together
+Peer-to-peer tracking platform,Example,Covidnearyou.org

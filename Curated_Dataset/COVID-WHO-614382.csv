@@ -1,0 +1,102 @@
+Source,Relation,Target
+COVID-WHO-614382,COVID WHO Research Paper Title,Shielding and Beyond: The Roles of Glycans in SARS-CoV-2 Spike Protein
+COVID-19,Causative virus,SARS-CoV-2
+SARS-CoV-2,Full form,Severe acute respiratory syndrome coronavirus 2
+Antibody development efforts,Revolve around ,Spike (S) protein
+Spike (S) protein,Function,Mediates host cell entry by binding to Angiotensin-converting enzyme 2 (ACE2)        
+Mediates host cell entry by binding to Angiotensin-converting enzyme 2 (ACE2)  ,Link,Angiotensin-converting enzyme 2        
+ACE2,Full form,Angiotensin-converting enzyme 2        
+Spike (S) protein,Feature,Glycan shield
+Glycan shield,Objective,Thwarts the host immune response
+N-glycans at N165 and N234,Structural role hypothesized,Modulation and stabilization of the conformational dynamics of Spike’s receptor binding domain
+N-glycans at N165 and N234,Linked to ,N-glycans
+N-glycans at N165 and N234,Linked to ,N165
+N-glycans at N165 and N234,Linked to ,N234
+Modulation and stabilization of the conformational dynamics of Spike’s receptor binding domain,Linked to ,Receptor binding domain 
+Possible strategy against COVID-19,Use,Vulnerabilities of the glycan shield of SARS-CoV-2 S protein head
+Vulnerabilities of the glycan shield of SARS-CoV-2 S protein head,Reason,Glycan camouflaging of head is insufficient particularly for large probe radii
+Vulnerabilities of the glycan shield of SARS-CoV-2 S protein head,Linked to,Glycan shield
+Vulnerabilities of the glycan shield of SARS-CoV-2 S protein head,Linked to,Spike (S) protein head
+Vulnerabilities of the glycan shield of SARS-CoV-2 S protein head,Linked to,Spike (S) protein
+Glycan camouflaging,Linked to,Glycan shield
+Spike (S) protein,Attribute,Class I fusion protein
+Spike (S) protein,Synthesized as,Single 1273 amino acid polypeptide chain
+Single 1273 amino acid polypeptide chain,Associates as,Trimer
+Single 1273 amino acid polypeptide chain,Linked to,Polypeptide chain
+Spike (S) protein,Topological classification,Spike (S) protein head
+Spike (S) protein,Topological classification,Spike (S) protein stalk
+Spike (S) protein,Topological classification,Spike (S) protein tail
+Spike (S) protein,Feature,Furin cleavage site
+Spike (S) protein,Residues range for topological classification,Range 16-1140
+Spike (S) protein,Residues range for topological classification,Range 1141–1234
+Spike (S) protein,Residues range for topological classification,Range 1235–1273
+Furin cleavage site,Cleaved by,TMPRSS protease
+Furin cleavage site,Believed to,Prime and activate the spike for infection
+Proteolytic cleavage at S2,Releases,Fusion peptide 
+FP ,Full form ,Fusion peptide 
+Fusion Peptide ,Function,Penetrates and primes the host cell membrane for fusion
+Spike (S) protein,Contains,S1 subunit
+Spike (S) protein,Contains,S2 subunit
+Spike (S) protein,Contains,Furin cleavage site
+S1 subunit,Contains,N-terminal domain 
+NTD,Full form ,N-terminal domain 
+N-Terminal Domain ,Residues range for topological classification,16–291
+S1 subunit,Contains,Receptor binding domain
+RBD,Full form ,Receptor binding domain
+N-Terminal Domain ,Residues range for topological classification,330–530
+Receptor binding motif ,Responsible for,Interaction with angiotensin-converting enzyme 2 (ACE2) receptor to gain entry into the host
+Interaction with angiotensin-converting enzyme 2 (ACE2) receptor to gain entry into the host,Linked to ,ACE2 receptor
+RBM ,Full form ,Receptor binding motif 
+S2 subunit,Described as,Metastable spring-loaded fusion machine
+Metastable spring-loaded fusion machine,Reason for name,Plays a key role in integrating the viral and host cell membranes
+S2 subunit,Contains,Fusion Peptide
+Fusion peptide,Residues range for topological classification,788–806
+S2 subunit,Contains,Central helix
+CH,Full form ,Central helix
+Central helix,Residues range for topological classification,987–1034
+S2 subunit,Contains,Connecting domain
+CD,Full form,Connecting domain
+Connecting domain,Residues range for topological classification,1080–1135
+S2 subunit,Contains,Heptad repeat 2
+HR2,Full form,Heptad repeat 2
+Heptad repeat 2 ,Residues range for topological classification,1163–1210
+S2 subunit,Contains,Transmembrane domain
+TD,Full form,Transmembrane domain
+Transmembrane domain ,Residues range for topological classification,1214–1234
+S2 subunit,Contains,Cytoplasmic tail
+CT,Full form ,Cytoplasmic tail
+Cytoplasmic tail,Residues range for topological classification,1235–1273
+Spike (S) protein,Structural feature,Extensive glycosylation
+Protein glycosylation,Importance,Plays a crucial role in viral pathogenesis
+Plays a crucial role in viral pathogenesis,Linked to,Viral pathogenesis
+HIV-1 envelope spike (Env),Attribute,Protein-accessible surface area almost entirely covered in N-glycans
+Protein-accessible surface area almost entirely covered in N-glycans,Linked to,N-glycans
+HIV-1 Env glycan shield,Largely structured by,Oligomannose (Man5-9) N-glycans
+Oligomannose (Man5-9) N-glycans,Linked to ,Man5-9
+SARS-CoV Spike,Comparison with HIV-1 envelope spike (Env),Large presence of complex N-glycans relative to oligomannose type
+Large presence of complex N-glycans relative to oligomannose type,Linked to,Oligomannose type
+Spike (S) protein,Comparison with HIV-1 envelope spike (Env),Large presence of complex N-glycans relative to oligomannose type
+SARS-CoV-2 trimer,Attribute,22 predicted N-glycosylation sites per protomer
+22 predicted N-glycosylation sites per protomer,Occupied sites,17
+SARS-CoV-2 trimer,Attribute,2 predicted O-glycosylation sites
+Spike (S) protein stalk,Viability as target for antibody development,"No, found to have lack of vulnerabilities, particularly for large molecules"
+Spike (S) protein head,Viability as target for antibody development,"Yes, more viable target as extensively shown by epitope-specific accessibility analyses"
+Nglycans at N234 and N165,Function,Modulate the conformational dynamics of the S protein
+Nglycans at N234 and N165,Function,Stabilize RBD in the “up” conformation
+Vaccine design,Factor to consider,Strategies developed by viruses to evade the host immune response
+Strategies developed by viruses to evade the host immune response,Example,Many viruses use a glycan shield to mask the immunogenic epitopes targeted by neutralizing antibodies
+Spike (S) protein head,Number of N-glycans sites,19
+Spike (S) protein stalk ,Number of N-glycans sites,3
+Antibodies targeting spike protein,Feature,Majority recognize epitopes on the RBD
+Antibodies targeting spike protein,Feature,A few address the antigenic regions within the NTD and CD
+RBD antibodies,Example,B38
+RBD antibodies,Example,47D11
+B38,Interacts with,RBM at the RBD/ACE2 interface
+47D11,Interacts with,RBM at the RBD/ACE2 interface
+S309,Interacts with,Side/bottom part of the RBD
+Side/bottom part of the RBD,Linked to,RBD
+CR3022,Interacts with,Side/bottom part of the RBD
+NTD and CD antibodies,Example,4A8
+NTD and CD antibodies,Example,1A9
+SARS-CoV S Glycoproteins,Compared with SARS-CoV-2 S Glycoproteins,Share 76% sequence identity
+SARS-CoV S Glycoproteins,Compared with SARS-CoV-2 S Glycoproteins,22 N-glycosylation sites found on SARS-CoV-2 conserved from SARS-CoV
