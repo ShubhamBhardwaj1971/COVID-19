@@ -4,7 +4,7 @@ COVID-19,Causative virus,SARS-CoV-2
 SARS-CoV-2,Full form,Severe acute respiratory syndrome coronavirus 2
 Antibody development efforts,Revolve around ,Spike (S) protein
 Spike (S) protein,Function,Mediates host cell entry by binding to Angiotensin-converting enzyme 2 (ACE2)        
-Mediates host cell entry by binding to Angiotensin-converting enzyme 2 (ACE2)  ,Link,Angiotensin-converting enzyme 2        
+Mediates host cell entry by binding to Angiotensin-converting enzyme 2 (ACE2),Link,Angiotensin-converting enzyme 2        
 ACE2,Full form,Angiotensin-converting enzyme 2        
 Spike (S) protein,Feature,Glycan shield
 Glycan shield,Objective,Thwarts the host immune response
@@ -13,7 +13,7 @@ N-glycans at N165 and N234,Linked to ,N-glycans
 N-glycans at N165 and N234,Linked to ,N165
 N-glycans at N165 and N234,Linked to ,N234
 Modulation and stabilization of the conformational dynamics of Spike’s receptor binding domain,Linked to ,Receptor binding domain 
-Possible strategy against COVID-19,Use,Vulnerabilities of the glycan shield of SARS-CoV-2 S protein head
+Possible Strategy against COVID-19,Use,Vulnerabilities of the glycan shield of SARS-CoV-2 S protein head
 Vulnerabilities of the glycan shield of SARS-CoV-2 S protein head,Reason,Glycan camouflaging of head is insufficient particularly for large probe radii
 Vulnerabilities of the glycan shield of SARS-CoV-2 S protein head,Linked to,Glycan shield
 Vulnerabilities of the glycan shield of SARS-CoV-2 S protein head,Linked to,Spike (S) protein head

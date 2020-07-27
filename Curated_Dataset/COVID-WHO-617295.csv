@@ -2,8 +2,8 @@ Source,Relation,Target
 COVID-WHO-617295,COVID WHO Research Paper Title,Drug targets for COVID-19 therapeutics: Ongoing global efforts
 COVID-19,Causative virus,SARS-CoV-2
 SARS-CoV-2,Full form ,Severe Acute Respiratory Syndrome Coronavirus 2
-Coronaviruses,Diseases caused,SARS
-Coronaviruses,Diseases caused by ,MERS
+Coronaviruses,Diseases caused by,SARS
+Coronaviruses,Diseases caused by,MERS
 SARS,Full form ,Severe Acute Respiratory Syndrome
 MERS,Full form ,Middle East Respiratory Syndrome
 COVID-19,Similar symptoms,SARS
