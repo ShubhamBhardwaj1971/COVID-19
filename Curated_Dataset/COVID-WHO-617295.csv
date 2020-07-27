@@ -91,6 +91,7 @@ NSP9,Attribute/Function,RNA-binding protein
 NSP9,Attribute/Function,Dimeric form
 Dimeric form,Role with respect to Infection,Critical for viral infection
 Possible Strategy against COVID-19,Inhibiting viral infection,Disruption of dimerization in NSP9
+Disruption of dimerization in NSP9,Linked to,NSP9
 NSP10,Attribute/Function,Replication
 NSP12,Attribute/Function,RNA-dependent RNA polymerase
 NSP12,Attribute/Function,Helicase activity
